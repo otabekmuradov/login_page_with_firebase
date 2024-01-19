@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "792152744175",
+    "project_id": "auth-ed573",
+    "storage_bucket": "auth-ed573.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792152744175:android:5a38398c415469c28d3b1a",
+        "android_client_info": {
+          "package_name": "com.example.login_page"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAldKWqpZoKBQxHY8OsWNkOcnrzoTHh20o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
