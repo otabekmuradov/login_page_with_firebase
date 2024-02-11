@@ -44,37 +44,37 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAOhwZNdrCMS0WS6NRPk33rdMJ77bGGV-4',
-    appId: '1:792152744175:web:b776e5ece48cb7508d3b1a',
-    messagingSenderId: '792152744175',
-    projectId: 'auth-ed573',
-    authDomain: 'auth-ed573.firebaseapp.com',
-    storageBucket: 'auth-ed573.appspot.com',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    authDomain: '',
+    storageBucket: '',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAldKWqpZoKBQxHY8OsWNkOcnrzoTHh20o',
-    appId: '1:792152744175:android:5a38398c415469c28d3b1a',
-    messagingSenderId: '792152744175',
-    projectId: 'auth-ed573',
-    storageBucket: 'auth-ed573.appspot.com',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyC9JYCH1N6uh7g2zd8xOSgOUMN2GWcIGXA',
-    appId: '1:792152744175:ios:ffba26ab0d65dda68d3b1a',
-    messagingSenderId: '792152744175',
-    projectId: 'auth-ed573',
-    storageBucket: 'auth-ed573.appspot.com',
-    iosBundleId: 'com.example.loginPage',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
+    iosBundleId: '',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyC9JYCH1N6uh7g2zd8xOSgOUMN2GWcIGXA',
-    appId: '1:792152744175:ios:72d1656e11addfef8d3b1a',
-    messagingSenderId: '792152744175',
-    projectId: 'auth-ed573',
-    storageBucket: 'auth-ed573.appspot.com',
-    iosBundleId: 'com.example.loginPage.RunnerTests',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
+    iosBundleId: '',
   );
 }
